@@ -5,8 +5,10 @@ import Calculator from './calculator';
 
 function App() {
   return (
-    //<Todos />
-    <Calculator />
+   
+      //<Todos />
+      <Calculator />
+    
   );
 }
 
